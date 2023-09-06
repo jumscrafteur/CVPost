@@ -1,0 +1,46 @@
+{
+    "pages": [
+        {
+            "layout": "PMB",
+            "mainColor": "#12266D",
+            "textColor": "#000",
+            "misc": {
+                "contact": {
+                    "phone": "01 23 45 67 89",
+                    "adresse": "240 Earls Ct Rd, Londres, Royaume-Uni",
+                    "mail": "hsansane@gmail.com",
+                    "github": "github.com/jumscrafteur"
+                },
+                "qualities": [
+                    "---",
+                    "---",
+                    "---"
+                ],
+                "other": [
+                    "---",
+                    "---",
+                    "---"
+                ]
+            },
+            "header": {
+                "title": "HUGO SANSANÉ",
+                "subTitle": "ÉTUDIANT EN ÉCOLE D'INGÉNIEURS",
+                "paragraph": ""
+            },
+            "sections": [
+                {
+                    "title": "",
+                    "layout": "empty",
+                    "elements": [
+                        {
+                            "text": "Lorem **markdownum** adicis umeros hasta! Longa itum, saxa in ratione ipsum\npectus Othrys Vertumnumque Triviae et procul.\n\n> Novaeque at magis Cephisius aliud. Nec mea exosus, cornuaque nec acuto ritu\n> Hypsea bubo pulsoque miserabilis intra dederat metu mensura fistula\n> omnipotens. Dixit decorem. Care quo Stygias.\n\nSui di quam vosque pedis media, cervi extulit nusquam, in acrior. Et vacca et\ningeniis Daphne vola *pendet advertere* opus nocturnae cui ut primas pastae.\n\nEripe *dicitur*, pennis gurgite et Quid ea [ore alis\npotentior](http://etumore.io/pietas.php) sinuavi! Redde pretium ingredior\nuberrima inde, hic rapuere miscenda: quas cursu, terga habet. Quam est se\nfuisset traherent velut commemorare aethera, respiramen nam. Fistula vix eunti\ninfans aequora genitor petens. Subit in avidum utraque.\n\n- Et viasque\n- Primum videoque Hippomenes tetenderat radiabant\n- Troiam non\n\nProelia armis sidera quam Arcas, quaecumque Troiae quamquam virgis decolor. Et\nferro, est canitiemque et barbam forsitan, quae animam. Oculis Oedipodioniae\nquotiens est, eras super Romule nomina, magni ut iamque turba marmoris Tyrrhena\n*caput longi*.\n\n- Lacrimas Penei\n- Credi nepos decet precibus\n- Quisque se abeunt pallida\n\nLoqui corpus, nullae ebore fulvo meruisse Harpalos cognoscere ramis. Quinta\nfluctibus prosunt. Imperat caelo bis, carissime unus. Mihi iacerent, spatiosum\nordo trepidant feruntur, sitim venit validosque similemque insanos flammae\nignara. Iussit Hymenaeus advertere: **radios nisi**: iniuria quod; quae videtur.\n\n1. Armenta litoream deserto\n2. Aevi oraque parvus sceptroque nutu\n3. Mirum ne dixerat undas et talibus citra\n4. Capi et saetaeque\n5. In portante foret quondam cubitoque Victor sagitta\n6. Tenuavit dixit intremuit Antiphatae tertia mixta et\n\nAnimo in clivum rex bellica sisti, iussorum esset conferat mentesque quoque\nIsthmo leve fecit, spectansque lascive, non. Qui ille etiam sic **faciat**\nedidit ante gramina, si ut, ait verba adiit; pondera hoc silva, est.\n\n **_Ce CV est un exemple, je vous invite a me contacter afin d'obtenir une version plus réaliste ;)_** ",
+                            "layout": "md",
+                            "subText": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "signature": "dc74bef6924f4d18290dc3ad78626fb4f12dbc84c4a492a0d0a1adbbbdb7ee46"
+}
